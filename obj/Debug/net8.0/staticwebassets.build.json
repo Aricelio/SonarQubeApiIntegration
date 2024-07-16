@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "oa3BOXLT5dxYTxC4SttBj9KaxMeJRb7BFgG0fnU00Lo=",
+  "Source": "SonarQubeAPIIntegration",
+  "BasePath": "_content/SonarQubeAPIIntegration",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
