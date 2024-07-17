@@ -1,0 +1,6 @@
+
+/.sonarqube
+/.vs
+/obj
+/bin/Debug
+/obj/Debug
