@@ -4,3 +4,9 @@
 /obj
 /bin/Debug
 /obj/Debug
+/Api/bin/Debug
+/Api/obj
+/Domain/bin/Debug/net8.0
+/Domain/obj
+/Domain.Test/bin/Debug/net8.0
+/Domain.Test/obj
